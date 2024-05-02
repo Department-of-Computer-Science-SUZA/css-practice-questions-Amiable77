@@ -1,0 +1,33 @@
+h1{
+    background-color: crimson;
+    color:antiquewhite;
+    text-shadow: 2px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+nav ul{
+    background-color: darksalmon;
+    color:black;
+    text-shadow: 2px solid pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+p {background-color: aquamarine;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: normal
+}
+.imgKushoto{
+    float:left;
+    height: 100px;
+}
+.imgKulia{
+    float:right;
+    height: 100px;
+}
+.imgKati{
+    height:300px;
+}
+body{
+    background-color: cornflowerblue;
+}
